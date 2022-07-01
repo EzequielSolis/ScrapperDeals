@@ -1,0 +1,28 @@
+[
+    {
+        "url" : "https://random-web?page=",
+        "url2" : "",
+        "tienda": "Random-shop",
+        "productos": "article > div.labelProduct-container > div.label-product-description",
+        "id": "h2 a",
+        "disponibilidad": "div.LaberProduct-availability i.product-available",
+        "disponibilidadDebeSer" : true,
+        "titulo": "h2 a",
+        "tituloAttr" : null,
+        "precio" : ".label-product-price-and-shipping > .price",
+        "precioAnterior" : ".label-product-price-and-shipping > .regular-price"
+    },
+    {
+        "url" : "https://random-web?page=",
+        "url2" : "",
+        "tienda": "Random-shop 2",
+        "productos": "article > div.labelProduct-container > div.label-product-description",
+        "id": "h2 a",
+        "disponibilidad": "div.LabelProduct-availability i.product-available",
+        "disponibilidadDebeSer" : true,
+        "titulo": "h2 a",
+        "tituloAttr" : null,
+        "precio" : ".label-product-price-and-shipping > .price",
+        "precioAnterior" : ".label-product-price-and-shipping > .regular-price"
+    }
+]
